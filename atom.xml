@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yyhorse.club</id>
+    <title>REXY STUDIO</title>
+    <updated>2022-06-08T17:05:49.278Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yyhorse.club"/>
+    <link rel="self" href="https://yyhorse.club/atom.xml"/>
+    <subtitle>嘤嘤嘤~</subtitle>
+    <logo>https://yyhorse.club/images/avatar.png</logo>
+    <icon>https://yyhorse.club/favicon.ico</icon>
+    <rights>All rights reserved 2022, REXY STUDIO</rights>
+    <entry>
+        <title type="html"><![CDATA[To Komorebi：生日快乐！]]></title>
+        <id>https://yyhorse.club/post/to-komorebisheng-ri-kuai-le/</id>
+        <link href="https://yyhorse.club/post/to-komorebisheng-ri-kuai-le/">
+        </link>
+        <updated>2022-06-08T16:40:24.000Z</updated>
+        <content type="html"><![CDATA[<p>To Komorebi：生日快乐！撒花花~~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RE-START:今天是2022年5月29日]]></title>
+        <id>https://yyhorse.club/post/re-startjin-tian-shi-2022-nian-5-yue-29-ri/</id>
+        <link href="https://yyhorse.club/post/re-startjin-tian-shi-2022-nian-5-yue-29-ri/">
+        </link>
+        <updated>2022-05-29T15:04:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>从今天开始，打算重新开始更新起来啦~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>从今天开始，打算重新开始更新起来啦~</p>
+<!-- more -->
+<p>一年前好奇个人建站，又在B站遇到了Gridea这个编写静态博客的宝藏软件，正如其主页所述：<br>
+<img src="https://s2.loli.net/2022/05/29/3GqJABkCR7WFO4U.png" alt="Gridea %7C 一个静态博客写作客户端.png" loading="lazy"><br>
+让我第“一”次在互联网上成功发布短文。</p>
+<ul>
+<li>为什么说是第“一”次</li>
+</ul>
+<p>再向前倒推一年，原本也有尝试建设个人网页（只是为了推广个人B站账号）。不知什么原因，从什么渠道就迷上了网站建设，即便高中学业繁忙（而且并没有学有余力），仍然费尽千方百计查询各方资料，最后是“成功”制作了一个个人网页，当初也看不懂代码，不会用专业的adobe DW，用了一个免费的模块化中文设计软件，缝合了多种模板最终拼接成型。（得益于笔者天才般随意堆放文件的习惯，相关文件图片已找不到😇😇)<br>
+半成品做成之后还自己研究了域名，第一次知道域名买完还要配证书，国内运营还要备案。。。可谓是道阻且长了。最终迫于学业压力，也就不了了之。</p>
+<ul>
+<li>正式准备</li>
+</ul>
+<p>一年后也就是2021年，暑假因为某机缘巧合通过搜索引擎了解到了gridea，无论是其追求简洁的软件风格，还是其表面下依然简洁清晰的操作逻辑，再次激发了我“深入”研究的热情。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【REcord-01】用MC的方式打开你的名字OP梦灯笼-幕后]]></title>
+        <id>https://yyhorse.club/post/record-01-yong-mc-de-fang-shi-da-kai-ni-de-ming-zi-op-meng-deng-long/</id>
+        <link href="https://yyhorse.club/post/record-01-yong-mc-de-fang-shi-da-kai-ni-de-ming-zi-op-meng-deng-long/">
+        </link>
+        <updated>2021-08-10T03:56:47.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>2019.3开始制作 —— 2019.8完工投稿<br>
+在读高中生零基础用C4D制作Minecraft动画版本还原你的名字OP！<br>
+接下来将揭晓的是不为人知的幕后制作历程【手动狗头】</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>2019.3开始制作 —— 2019.8完工投稿<br>
+在读高中生零基础用C4D制作Minecraft动画版本还原你的名字OP！<br>
+接下来将揭晓的是不为人知的幕后制作历程【手动狗头】</p>
+</blockquote>
+<!-- more -->
+<p>虽然当初技术力和时间都不够，但是还是尽力用渣电脑还原了能还原的细节🤣🤣<br>
+先来康康完工正片~</p>
+<iframe 
+    width="100%" 
+    height="450" 
+    src="//player.bilibili.com/player.html?aid=64529710&bvid=BV1U4411R7k6&cid=112027456&page=2" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true">
+</iframe>
+<h2 id="这是-h2">这是 H2</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[print('Hello World') —— REXY STUDIO的第一篇Blog]]></title>
+        <id>https://yyhorse.club/post/printhello-world-rexy-studio-de-di-yi-pian-blog/</id>
+        <link href="https://yyhorse.club/post/printhello-world-rexy-studio-de-di-yi-pian-blog/">
+        </link>
+        <updated>2021-07-25T14:28:31.000Z</updated>
+        <content type="html"><![CDATA[<p>开启了通往新世界的大门……<br>
+本站目前仍在试运行阶段域名暂未备案，所以同时挂载于香港与上海两个服务器【手动狗头】<br>
+建议进入主页后单击下图所示的“REXY-STUDIO”字样重新加载进入上海服务器端<br>
+<img src="https://yyhorse.club/post-images/1627310998227.png" alt="" loading="lazy"><br>
+tips:PC端访问有看板娘可以撩哦~~欢迎下方留言:P</p>
+]]></content>
+    </entry>
+</feed>
